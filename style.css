@@ -1,0 +1,16 @@
+body{
+  background-image: url(920x920.jpg);
+  background-size: cover;
+}
+
+h1{
+  color: royalblue;
+}
+H2{
+  color: royalblue;
+  text-align: right;
+}
+h3{
+  color: silver;
+  text-align: center;
+}
